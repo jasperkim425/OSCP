@@ -4,4 +4,4 @@ OSCP 준비
 
 ## VulnHub
 
-- [FristiLeaks]()
+- [FristiLeaks](https://github.com/jasperkim425/OSCP/tree/main/VulnHub/FristiLeaks)
